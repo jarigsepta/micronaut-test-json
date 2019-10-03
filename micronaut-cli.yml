@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: belajar
+---
+testFramework: junit
+sourceLanguage: java
